@@ -384,6 +384,7 @@
 	.gallery img {
 	  grid-row: auto;
 	  grid-column: auto;
+	  height: 100%;
 	}
 	.gallery {
 	  grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
